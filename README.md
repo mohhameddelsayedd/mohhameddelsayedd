@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:mohameddelsayedd114@gmail.com">Email</a> •
-  <a href="#">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohameddelsayedd">LinkedIn</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ I enjoy designing clean architectures, solving real-world problems, and improvin
 ## 🧠 Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,github,postgres" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,github" />
 
 </p>
 
@@ -71,6 +71,7 @@ RESTful API for managing student data with structured architecture.
 
 ## 📫 Contact
 - Email: mohameddelsayedd114@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohameddelsayedd  
 - Phone: 01018520046  
 
 ---
